@@ -1,6 +1,6 @@
 # Privmx Maven Repository
 
-This is public Github Maven Repository for Java libraries to simplify working with Privmx Endpoint C++ library inside Java Virtual Machines. Go to the [Privmx Platform Docs](https://docs.privmx.cloud/java) to read more about these libraries.
+Public Github Maven Repository for Java libraries to simplify working with Privmx Endpoint C++ library inside Java Virtual Machines. Go to the [Privmx Platform Docs](https://docs.privmx.cloud/java) to read more about these libraries.
 
 ## Libraries
 
